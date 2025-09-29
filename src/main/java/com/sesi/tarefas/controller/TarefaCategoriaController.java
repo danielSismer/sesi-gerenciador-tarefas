@@ -14,8 +14,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import com.sesi.tarefas.model.TarefaCategoria;
 import com.sesi.tarefas.repository.TarefaCategoriaRepository;
 
-import jakarta.websocket.server.PathParam;
-
 @Controller
 public class TarefaCategoriaController {
 
